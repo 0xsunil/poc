@@ -5,6 +5,4 @@ This repository contains the POCs for different attack scenarios ;)
 - [Subdomain Takeover](https://0xsunil.github.io/poc/subdomain-takeover-poc.html)
 
 ![](https://iplogger.org/1Pb687.jpeg)
-<img src="https://images.app.goo.gl/TQvKFQPkgNoxB3my7"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+<img src="https://images.app.goo.gl/TQvKFQPkgNoxB3my7"/>
